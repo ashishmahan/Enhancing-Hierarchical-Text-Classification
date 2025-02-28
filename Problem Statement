@@ -1,0 +1,33 @@
+Problem Statement: 
+
+For text document sometimes we have to find out context from given text. Sometimes classes are hierarchical and model have to predict different levels of classes.
+
+In this problem the goal is to classify given text in hierarchy of classes.
+
+Data: 
+
+Attached is review of products, you can demonstrate how you approach to classify given text.
+
+Data description:
+
+Productid: Unique ID of product
+
+Title: Title of review
+
+userId: unique ID of user
+
+Time: timestamp of review
+
+Text: Review of product given by user
+
+Cat1:  First level cat
+
+Cat2: Second level cat
+
+Cat3: third level cat
+
+Code:
+
+You can use a programming language of your choice, but python would be preferred. You can share the code in Jupyter Notebook.
+
+Do let me know if you have any questions and please acknowledge this mail.
